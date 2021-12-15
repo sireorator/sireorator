@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sireorator
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on machine learning for solving education problems
+- 💞️ I’m looking to collaborate on machine learning for solving complex problems
 - 📫 How to reach me: +212672044079
 
 <!---
